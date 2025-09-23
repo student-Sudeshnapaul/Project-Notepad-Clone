@@ -47,11 +47,5 @@ It offers all the essential text editing features along with customization optio
 
 ---
 
-## 📸 Project Preview  
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Notepad Clone Preview">  
-
----
-
 ## 📄 License  
 This project is **open-source** and free to use.  
